@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aaayyyzzzzzzz
+- 👋 Hi, I’m Glyza Rafols
 - 👀 I’m interested in many things
 - 🌱 I’m currently learning computer networking and ethical hacking
 <!---
